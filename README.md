@@ -1,0 +1,46 @@
+# PyStringToolkit
+
+[![PyPI version](https://img.shields.io/pypi/v/pystringtoolkit)](https://pypi.org/project/pystringtoolkit/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+[![Documentation Status](https://readthedocs.org/projects/pystringtoolkit/badge/?version=latest)](https://pystringtoolkit.readthedocs.io/en/latest/)
+
+**Strings, Simplified.**  
+PyStringToolkit is a lightweight and intuitive Python library offering a rich set of utilities for string manipulation and transformation.  
+
+Whether you’re building web applications, preprocessing text for machine learning, or just want cleaner, more readable code — PyStringToolkit helps you work with strings faster and more elegantly.
+
+---
+
+## 📖 Documentation
+Full documentation is available at:  
+**[https://pystringtoolkit.readthedocs.io](https://pystringtoolkit.readthedocs.io)**
+
+---
+
+## ✨ Features
+
+### 🔠 Case Conversion
+- `to_snake_case()` → `"Hello World"` → `"hello_world"`
+- `to_camel_case()` → `"Hello World"` → `"helloWorld"`
+- `to_pascal_case()` → `"Hello World"` → `"HelloWorld"`
+- `to_kebab_case()` → `"Hello World"` → `"hello-world"`
+- `to_upper_case()` → `"hello"` → `"HELLO"`
+- `to_lower_case()` → `"HELLO"` → `"hello"`
+- `to_title_case()` → `"hello world"` → `"Hello World"`
+
+### 🧹 Cleaning Functions
+- `remove_punctuation()`
+- `remove_whitespaces()`
+- `remove_extra_spaces()`
+- `truncate(length)`
+- `contains_only_alpha()`
+
+### 🔧 String Generators
+- `slugify()`
+- `random_string(length)`
+
+---
+
+## 📦 Installation
+```bash
+pip install pystringtoolkit
