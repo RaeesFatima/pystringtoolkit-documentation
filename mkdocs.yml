@@ -1,0 +1,9 @@
+site_name: PyStringToolkit
+site_description: Handy string utilities for Python
+repo_url: https://github.com/RaeesFatima/pystringtoolkit
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Getting Started: getting-started.md
+  - API Reference: api.md
