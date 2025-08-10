@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# Build artifacts
+build/
+dist/
+*.egg-info/
+*.egg
+
+# MkDocs site folder
+site/
+
+# IDE / editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS-specific files
+.DS_Store
+Thumbs.db
