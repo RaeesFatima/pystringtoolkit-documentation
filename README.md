@@ -1,8 +1,8 @@
 # PyStringToolkit
 
-[![PyPI version](https://img.shields.io/pypi/v/pystringtoolkit)](https://pypi.org/project/pystringtoolkit/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Documentation Status](https://readthedocs.org/projects/pystringtoolkit/badge/?version=latest)](https://pystringtoolkit.readthedocs.io/en/latest/)
+[![PyPI version](https://badge.fury.io/py/pystringtoolkit.svg)](https://pypi.org/project/pystringtoolkit/)
+[![Downloads](https://static.pepy.tech/badge/pystringtoolkit)](https://pepy.tech/project/pystringtoolkit)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Strings, Simplified.**  
 PyStringToolkit is a lightweight and intuitive Python library offering a rich set of utilities for string manipulation and transformation.  
