@@ -1,6 +1,6 @@
 site_name: PyStringToolkit
 site_description: Handy string utilities for Python
-repo_url: https://github.com/RaeesFatima/pystringtoolkit
+repo_url: https://github.com/RaeesFatima/pystringtoolkit-documentation
 theme:
   name: material
 nav:
