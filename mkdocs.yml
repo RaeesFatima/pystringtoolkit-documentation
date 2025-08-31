@@ -7,3 +7,14 @@ nav:
   - Home: index.md
   - Getting Started: getting-started.md
   - API Reference: api.md
+plugins:
+  - search
+  - mkdocstrings:
+      handlers:
+        python:
+          options:
+            show_source: true
+            show_root_toc_entry: false
+            members: true
+            inherited_members: true
+            docstring_style: google

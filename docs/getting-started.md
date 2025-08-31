@@ -16,7 +16,7 @@ You can import individual functions:
 from pystringtoolkit import to_kebab_case
 ```
 Or import multiple at once:
-```commandline
+```
 from pystringtoolkit import to_snake_case, remove_punctuation
 ```
 ## Function Reference & Examples
@@ -66,6 +66,19 @@ from pystringtoolkit import to_title_case
 
 print(to_title_case("hello world"))  # Hello World
 ```
+* to_alternating_case(text) - Alternate the case of each character in a string.
+```
+from pystringtoolkit import to_alternating_case
+
+print(to_alternating_case("yEsssssss"))   #YeSsSsSsS
+```
+* invert_cases(text) - Invert the case of each character in a string.
+```
+from pystringtoolkit.case_conversion import invert_cases
+
+print(invert_cases("Hello")) #hELLO
+```
+
 ### **Text Cleaning Functions**
 
 * remove_punctuation(text) — Removes punctuation, keeping letters/digits
@@ -113,4 +126,24 @@ print(slugify("Hello World!"))  # hello-world
 from pystringtoolkit import random_string
 
 print(random_string(8))  # Example: a1B9xYzQ
+```
+
+### **Validators**
+* is_numeric(text) - Validates if it is numeric
+```
+from pystringtoolkit.validators import is_numeric
+
+print(is_numeric("123"))
+```
+* is_email(text) - Validates if it is email
+```
+from pystringtoolkit.validators import is_email
+
+print(is_email("user@example.com")) #True
+```
+* is_alpha
+```
+from pystringtoolkit.validators import is_alpha
+
+print(isalpha("pystringtoolkit")) #True
 ```
