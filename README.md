@@ -1,7 +1,7 @@
 # PyStringToolkit
 
 [![PyPI version](https://badge.fury.io/py/pystringtoolkit.svg)](https://pypi.org/project/pystringtoolkit/)
-[![Downloads](https://static.pepy.tech/badge/pystringtoolkit)](https://pepy.tech/project/pystringtoolkit)
+[![PyPI Downloads](https://static.pepy.tech/personalized-badge/pystringtoolkit?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=ORANGE&left_text=downloads)](https://pepy.tech/projects/pystringtoolkit)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Strings, Simplified.**  
