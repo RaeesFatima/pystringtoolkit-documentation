@@ -13,7 +13,7 @@ Whether you’re building web applications, preprocessing text for machine learn
 
 ## 📖 Documentation
 Full documentation is available at:  
-**[https://pystringtoolkit.readthedocs.io](https://pystringtoolkit.readthedocs.io)**
+**[https://pystringtoolkit-documentation.readthedocs.io/en/latest/](https://pystringtoolkit-documentation.readthedocs.io/en/latest/)**
 
 ---
 
