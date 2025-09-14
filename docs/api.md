@@ -13,3 +13,6 @@
 
 ## Generators
 ::: pystringtoolkit.generators
+
+## Counters
+::: pystringtoolkit.counting

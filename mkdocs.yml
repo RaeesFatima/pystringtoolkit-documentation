@@ -3,6 +3,8 @@ site_description: Handy string utilities for Python
 repo_url: https://github.com/RaeesFatima/pystringtoolkit-documentation
 theme:
   name: material
+  logo: assets/PST.png
+  favicon: assets/logo.png
 nav:
   - Home: index.md
   - Getting Started: getting-started.md
